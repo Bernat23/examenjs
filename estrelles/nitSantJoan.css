@@ -1,0 +1,22 @@
+body  {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+}
+
+#nit {
+    background-color: black;
+    align-self: center;
+    margin-right: 100px;
+}
+
+#variables {
+    width: 25%;
+    height: 100%;
+}
+
+.estrella {
+    background-color: white;
+    display: block;
+
+}
